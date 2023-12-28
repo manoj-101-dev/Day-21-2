@@ -1,6 +1,7 @@
 # Random Genre Fetcher
 
-This JavaScript code fetches a random genre from the "Genrenator" API provided by [binaryjazz.us](https://binaryjazz.us/wp-json/genrenator/v1/genre/) and updates the content of an HTML element with the retrieved genre when a button is clicked.
+This JavaScript code enables the retrieval of a random genre and updates the content of an HTML element when a button is clicked.
+
 
 ## Code Explanation
 
